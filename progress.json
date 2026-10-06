@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T01:46:13.903Z",
+  "generated_at": "2026-10-06T03:24:19.771Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -230,6 +230,19 @@
       "last_pushed_at": "2026-10-02T01:46:09.748Z",
       "language": "python",
       "lines": 26
+    },
+    "problem:282": {
+      "kind": "problem",
+      "id": "282",
+      "title": "Calculate SVM Margin Width",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/282",
+      "path": "problems/0282-calculate-svm-margin-width",
+      "first_solved_at": "2026-10-06T03:24:19.196Z",
+      "last_pushed_at": "2026-10-06T03:24:19.196Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
